@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+* { 
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Lato', sans-serif; 
+}
+.logo{
+    width: 300px;
+    height: 200px;
+    margin:0px 0px 0px 15px;
+    
+}
+h1{
+    margin:0px 0px 15px 50px;
+
+}
+
+h4{
+    margin:0px 0px 0px 35px;
+}
+.container{
+    display: flex;
+    width: 100%;  
+    margin: 10px 30px;
+    flex-wrap: wrap;
+    padding: 3px;
+}
+.inputClass{
+    width:180px;
+    border-radius: 10px;
+}
+::placeholder{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 40px;
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #6b9508;
+    background-color: #bfdb4a;
+    font-size: 15px;
+    cursor: pointer;
+}
+.divButton{
+    width: 100px;
+    margin:0px 0px 0px 15px;
+
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 60%;
+    margin:0px 0px 0px 30px;
+    
+}
+
+th, td{
+    padding: 15px;
+}
+
+thead{
+    text-align: center;
+    background-color: #009de0;
+    border-bottom: solid 2px black;
+    color: white;
+}
