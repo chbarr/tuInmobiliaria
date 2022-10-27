@@ -12,6 +12,3 @@ Nota: La respuesta del servicio debe ser en JSON y la base de datos MySQL.
 
 Recomendación: Se pueden usar librerías como YUI o jQuery. Para el manejo del JSON en Java se puede usar Gson, json-simple. (Aunque ninguna es obligatoria)
 
-Entregables:
-
-Vista HTML JavaScript consumiendo el servicio web Servicio web desarrollado en un Servlet Java Script de la base de datos
