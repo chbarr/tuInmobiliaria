@@ -8,3 +8,4 @@ public interface PersonRepository {
 	Iterable<Person> findAll(String parameter);
 	Iterable<Rent> findRentalData(int id);
 }
+
